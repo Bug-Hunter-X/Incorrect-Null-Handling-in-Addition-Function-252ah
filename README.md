@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript: incorrect handling of null values. The `foo` function adds two numbers, but its handling of null input is flawed.  The solution provides a corrected version that explicitly handles nulls, throwing a more informative error if needed.
